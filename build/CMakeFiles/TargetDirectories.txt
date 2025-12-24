@@ -1,0 +1,3 @@
+/Users/harshdalwadi/Desktop/Practice/cpp/download_sorter/build/CMakeFiles/sorter.dir
+/Users/harshdalwadi/Desktop/Practice/cpp/download_sorter/build/CMakeFiles/edit_cache.dir
+/Users/harshdalwadi/Desktop/Practice/cpp/download_sorter/build/CMakeFiles/rebuild_cache.dir
